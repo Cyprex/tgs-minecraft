@@ -1,5 +1,5 @@
-<!-- This file is managed by git, if you want to customize it, please create a new file or copy this one and adjust ingameinfoxml.cfg to read from your file. -->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This file is managed by git, if you want to customize it, please create a new file or copy this one and adjust ingameinfoxml.cfg to read from your file. -->
 <config>
     <lines at="topleft">
         <line>
