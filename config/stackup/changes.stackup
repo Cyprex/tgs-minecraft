@@ -6,3 +6,5 @@ id="minecraft:gravel" -> 256
 id="minecraft:stone" -> 256
 id="minecraft:glass" -> 256
 id="minecraft:log" -> 256
+id="minecraft:netherrack" -> 256
+id="minecraft:nether_brick" -> 256
